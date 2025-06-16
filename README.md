@@ -25,7 +25,7 @@ This path will introduce a wide array of tools and real-life analysis scenarios,
 
 | #  | Section Name                         | Topic                                                                 | Link                                                              |
 |----|--------------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------|
-| 1  | Cyber Defence Frameworks             | Frameworks like MITRE, Kill Chain, and Diamond Model.                 | View     |
+| 1  | Cyber Defence Frameworks             | Frameworks like MITRE, Kill Chain, and Diamond Model.                 | [View](https://github.com/MQKGitHub/Cyber-Defence-Frameworks/)    |
 | 2  | Cyber Threat Intelligence            | Learn threat hunting with YARA, MISP, OpenCTI, and more.              | View    |
 | 3  | Network Security & Traffic Analysis  | Analyse traffic with Snort, Zeek, Wireshark, TShark, and others.      | View |
 | 4  | Endpoint Security Monitoring         | Investigate logs using Sysinternals, Sysmon, Osquery, Wazuh.          | View |
